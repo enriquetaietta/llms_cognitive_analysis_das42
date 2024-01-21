@@ -23,7 +23,7 @@ We've tried to investigate the responses on:
 5. Advisor Relationships
 
 
-- **Responses:** The responses are in the format name csv_openai_**gender**_event_**event number**_**event type**_**output format**
+- **Responses:** The responses are in the format name csv__openai-**#gender#**-event-**#eventnumber#**-**#eventtype#**-**#outputformat#**
     -   For each case we produced 3 different format types: 
         1. **Base**: One row for a ChatGPT OpenAI call ID and all the numeric responses to the test
         2. **FMN**: A format for the Forma-Mentis Network. 4 columns with ID, Question number, response value, sentence
