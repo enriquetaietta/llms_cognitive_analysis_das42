@@ -1,0 +1,6 @@
+  dim       name                                      questions
+1   1      MIXED                Q1 Q2 Q4 Q7 Q15 Q19 Q23 Q25 Q41
+2   2 DEPRESSION Q3 Q10 Q13 Q16 Q17 Q21 Q24 Q26 Q31 Q34 Q37 Q38
+3   3      MIXED                   Q5 Q8 Q9 Q12 Q22 Q29 Q33 Q42
+4   4     STRESS                 Q6 Q11 Q14 Q18 Q27 Q32 Q35 Q39
+5   5    ANXIETY                            Q20 Q28 Q30 Q36 Q40

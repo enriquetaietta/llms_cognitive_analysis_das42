@@ -1,0 +1,55 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.419
+                        I felt that I had nothing to look forward to.                                                I felt that life wasn't worthwhile. 0.389
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                                  node_i                                                                            node_j   wto
+  I feared that I would be 'thrown' by some trivial but unfamiliar task.  I was worried about situations in which I might panic and make a fool of myself. 0.285
+                                               I felt sad and depressed.                                                      I felt downhearted and blue. 0.275
+                                 I felt I wasn't worth much as a person.                                                    I felt I was pretty worthless. 0.255
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                                                                                     node_i
+                                                                                              I had a feeling of faintness.
+                                                                 I had a feeling of shakiness (eg, legs going to give way).
+                                                                                        I felt that life wasn't worthwhile.
+                                                                        I was unable to become enthusiastic about anything.
+                                                                                I found myself getting upset rather easily.
+                                                                                               I felt I was close to panic.
+                                  I found myself in situations that made me so anxious I was most relieved when they ended.
+  I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+                                                                                                node_j   wto
+                                                                       I had difficulty in swallowing. 0.237
+  I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion. 0.230
+                                                I could see nothing in the future to be hopeful about. 0.228
+                                          I found it difficult to work up the initiative to do things. 0.218
+                                                                      I felt that I was rather touchy. 0.210
+                                I feared that I would be 'thrown' by some trivial but unfamiliar task. 0.209
+                                                                I felt scared without any good reason. 0.208
+                                                                         I had a feeling of faintness. 0.204
+                                                                                                                         node_i
+611                                                                                               I had a feeling of faintness.
+271                                                                  I had a feeling of shakiness (eg, legs going to give way).
+877                                                                                         I felt that life wasn't worthwhile.
+1302                                                                        I was unable to become enthusiastic about anything.
+438                                                                                 I found myself getting upset rather easily.
+1164                                                                                               I felt I was close to panic.
+356                                   I found myself in situations that made me so anxious I was most relieved when they ended.
+141   I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+                                                                                                    node_j       wto
+611                                                                        I had difficulty in swallowing. 0.2368581
+271   I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion. 0.2298187
+877                                                 I could see nothing in the future to be hopeful about. 0.2275933
+1302                                          I found it difficult to work up the initiative to do things. 0.2179494
+438                                                                       I felt that I was rather touchy. 0.2103420
+1164                                I feared that I would be 'thrown' by some trivial but unfamiliar task. 0.2088106
+356                                                                 I felt scared without any good reason. 0.2083971
+141                                                                          I had a feeling of faintness. 0.2035384

@@ -1,0 +1,50 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.403
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                   node_i                                                  node_j   wto
+  I felt I wasn't worth much as a person.                          I felt I was pretty worthless. 0.259
+      I felt that life wasn't worthwhile.  I could see nothing in the future to be hopeful about. 0.254
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                     node_i                                                                                                node_j   wto
+      I found myself getting upset by quite trivial things.                                                               I was aware of the dryness of my mouth. 0.229
+                                  I felt sad and depressed.                                                                          I felt downhearted and blue. 0.223
+  I felt that I had lost interest in just about everything.                                         I couldn't seem to get any enjoyment out of the things I did. 0.217
+                               I felt I was close to panic.                                I feared that I would be 'thrown' by some trivial but unfamiliar task. 0.214
+              I felt that I had nothing to look forward to.                                                                   I felt that life wasn't worthwhile. 0.213
+      I found myself getting upset by quite trivial things.                                            I had a feeling of shakiness (eg, legs going to give way). 0.211
+                         I found that I was very irritable.                                                                      I found myself getting agitated. 0.209
+                        I felt that life wasn't worthwhile.                                                                     I felt that life was meaningless. 0.209
+                               I felt I was close to panic.                      I was worried about situations in which I might panic and make a fool of myself. 0.205
+                    I was aware of the dryness of my mouth.  I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion. 0.204
+                                                         node_i                                                                                                node_j
+2         I found myself getting upset by quite trivial things.                                                               I was aware of the dryness of my mouth.
+530                                   I felt sad and depressed.                                                                          I felt downhearted and blue.
+654   I felt that I had lost interest in just about everything.                                         I couldn't seem to get any enjoyment out of the things I did.
+1164                               I felt I was close to panic.                                I feared that I would be 'thrown' by some trivial but unfamiliar task.
+399               I felt that I had nothing to look forward to.                                                                   I felt that life wasn't worthwhile.
+7         I found myself getting upset by quite trivial things.                                            I had a feeling of shakiness (eg, legs going to give way).
+1131                         I found that I was very irritable.                                                                      I found myself getting agitated.
+878                         I felt that life wasn't worthwhile.                                                                     I felt that life was meaningless.
+1174                               I felt I was close to panic.                      I was worried about situations in which I might panic and make a fool of myself.
+61                      I was aware of the dryness of my mouth.  I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion.
+           wto
+2    0.2285405
+530  0.2225240
+654  0.2174065
+1164 0.2138774
+399  0.2131123
+7    0.2106330
+1131 0.2091239
+878  0.2091091
+1174 0.2045924
+61   0.2039942

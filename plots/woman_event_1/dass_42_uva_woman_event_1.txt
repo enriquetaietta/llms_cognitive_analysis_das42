@@ -1,0 +1,33 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                   node_i                          node_j   wto
+                I felt sad and depressed.    I felt downhearted and blue. 0.367
+  I felt I wasn't worth much as a person.  I felt I was pretty worthless. 0.363
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                     node_i                                                         node_j   wto
+  I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.283
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                     node_i                                                               node_j   wto
+                           I felt that I was rather touchy.  I found it difficult to tolerate interruptions to what I was doing. 0.243
+                         I found that I was very irritable.                                     I found myself getting agitated. 0.228
+                        I felt that life wasn't worthwhile.               I could see nothing in the future to be hopeful about. 0.226
+              I felt that I had nothing to look forward to.                                  I felt that life wasn't worthwhile. 0.213
+                              I had a feeling of faintness.                                      I had difficulty in swallowing. 0.205
+      I found myself getting upset by quite trivial things.                          I found myself getting upset rather easily. 0.205
+  I felt that I had lost interest in just about everything.                  I was unable to become enthusiastic about anything. 0.203
+                                                         node_i                                                               node_j       wto
+746                            I felt that I was rather touchy.  I found it difficult to tolerate interruptions to what I was doing. 0.2430031
+1131                         I found that I was very irritable.                                     I found myself getting agitated. 0.2281822
+877                         I felt that life wasn't worthwhile.               I could see nothing in the future to be hopeful about. 0.2257802
+399               I felt that I had nothing to look forward to.                                  I felt that life wasn't worthwhile. 0.2131238
+611                               I had a feeling of faintness.                                      I had difficulty in swallowing. 0.2054014
+11        I found myself getting upset by quite trivial things.                          I found myself getting upset rather easily. 0.2050615
+661   I felt that I had lost interest in just about everything.                  I was unable to become enthusiastic about anything. 0.2025995

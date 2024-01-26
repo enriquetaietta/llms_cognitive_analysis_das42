@@ -1,0 +1,32 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                   node_i                          node_j   wto
+  I felt I wasn't worth much as a person.  I felt I was pretty worthless. 0.382
+   I felt scared without any good reason.               I felt terrified. 0.336
+                I felt sad and depressed.    I felt downhearted and blue. 0.308
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+                                  I felt that life wasn't worthwhile.                             I could see nothing in the future to be hopeful about. 0.268
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.262
+                        I felt that I had nothing to look forward to.                                                I felt that life wasn't worthwhile. 0.252
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                         node_i                                                  node_j   wto
+                          I tended to overreact to situations.                         I felt that I was rather touchy. 0.241
+  I couldn't seem to get any enjoyment out of the things I did.     I was unable to become enthusiastic about anything. 0.227
+         I could see nothing in the future to be hopeful about.                       I felt that life was meaningless. 0.216
+                  I felt that I had nothing to look forward to.  I could see nothing in the future to be hopeful about. 0.208
+                             I found that I was very irritable.                        I found myself getting agitated. 0.207
+                                                             node_i                                                  node_j       wto
+228                           I tended to overreact to situations.                         I felt that I was rather touchy. 0.2408521
+997   I couldn't seem to get any enjoyment out of the things I did.     I was unable to become enthusiastic about anything. 0.2270961
+1550         I could see nothing in the future to be hopeful about.                       I felt that life was meaningless. 0.2159357
+415                   I felt that I had nothing to look forward to.  I could see nothing in the future to be hopeful about. 0.2081122
+1131                             I found that I was very irritable.                        I found myself getting agitated. 0.2072638

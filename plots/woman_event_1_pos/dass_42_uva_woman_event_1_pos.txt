@@ -1,0 +1,24 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+                                            I felt sad and depressed.                                                       I felt downhearted and blue. 0.428
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.402
+                                  I felt that life wasn't worthwhile.                             I could see nothing in the future to be hopeful about. 0.320
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.306
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                         node_i                                                         node_j   wto
+                    I found myself getting upset rather easily.                             I found that I was very irritable. 0.236
+      I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.233
+  I couldn't seem to get any enjoyment out of the things I did.            I was unable to become enthusiastic about anything. 0.224
+                                                            node_i                                                         node_j       wto
+447                    I found myself getting upset rather easily.                             I found that I was very irritable. 0.2356140
+654      I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.2328830
+997  I couldn't seem to get any enjoyment out of the things I did.            I was unable to become enthusiastic about anything. 0.2242422

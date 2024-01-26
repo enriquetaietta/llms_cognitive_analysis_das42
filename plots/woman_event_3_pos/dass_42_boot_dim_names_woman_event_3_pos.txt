@@ -1,0 +1,5 @@
+  dim       name                                                      questions
+1   1      MIXED Q1 Q2 Q5 Q6 Q8 Q11 Q12 Q14 Q18 Q22 Q27 Q29 Q32 Q33 Q35 Q39 Q42
+2   2      MIXED                                      Q3 Q9 Q20 Q28 Q30 Q36 Q40
+3   3 DEPRESSION                                                Q10 Q21 Q37 Q38
+4   4 DEPRESSION                                    Q13 Q16 Q17 Q24 Q26 Q31 Q34

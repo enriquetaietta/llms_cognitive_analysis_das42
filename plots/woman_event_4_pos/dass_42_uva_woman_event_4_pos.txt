@@ -1,0 +1,51 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.517
+                        I felt that I had nothing to look forward to.                                                I felt that life wasn't worthwhile. 0.441
+                                            I felt sad and depressed.                                                       I felt downhearted and blue. 0.357
+            I felt that I had lost interest in just about everything.                      I couldn't seem to get any enjoyment out of the things I did. 0.314
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                   node_i                          node_j   wto
+  I felt I wasn't worth much as a person.  I felt I was pretty worthless. 0.268
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                                                                                               node_i
+                                                                                                I tended to overreact to situations. 
+                                                                                                         I felt I was close to panic.
+                                                               I feared that I would be 'thrown' by some trivial but unfamiliar task.
+            I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+            I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+                                                                                                        I had a feeling of faintness.
+  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat).
+                                                                            node_j   wto
+                                                  I felt that I was rather touchy. 0.246
+  I was worried about situations in which I might panic and make a fool of myself. 0.241
+  I was worried about situations in which I might panic and make a fool of myself. 0.218
+                                                   I had difficulty in swallowing. 0.208
+                                                     I had a feeling of faintness. 0.208
+                                                   I had difficulty in swallowing. 0.208
+                                       I experienced trembling (eg, in the hands). 0.202
+                                                                                                                                   node_i
+228                                                                                                 I tended to overreact to situations. 
+1174                                                                                                         I felt I was close to panic.
+1258                                                               I feared that I would be 'thrown' by some trivial but unfamiliar task.
+149             I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+141             I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+611                                                                                                         I had a feeling of faintness.
+1049  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat).
+                                                                                node_j       wto
+228                                                   I felt that I was rather touchy. 0.2459517
+1174  I was worried about situations in which I might panic and make a fool of myself. 0.2413578
+1258  I was worried about situations in which I might panic and make a fool of myself. 0.2178928
+149                                                    I had difficulty in swallowing. 0.2075650
+141                                                      I had a feeling of faintness. 0.2075612
+611                                                    I had difficulty in swallowing. 0.2075433
+1049                                       I experienced trembling (eg, in the hands). 0.2020695

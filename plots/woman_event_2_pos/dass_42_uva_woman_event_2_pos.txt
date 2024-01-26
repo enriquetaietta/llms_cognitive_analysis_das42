@@ -1,0 +1,47 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.366
+                        I felt that I had nothing to look forward to.                                                I felt that life wasn't worthwhile. 0.309
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                         node_i                                               node_j   wto
+                        I felt I wasn't worth much as a person.                       I felt I was pretty worthless. 0.298
+  I couldn't seem to get any enjoyment out of the things I did.  I was unable to become enthusiastic about anything. 0.271
+                         I felt scared without any good reason.                                    I felt terrified. 0.254
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                      node_i
+                                I felt I was close to panic.
+  I had a feeling of shakiness (eg, legs going to give way).
+      I found it hard to calm down after something upset me.
+   I felt that I had lost interest in just about everything.
+            I felt that I was using a lot of nervous energy.
+                         I felt that life wasn't worthwhile.
+                                                                                                                               node_j   wto
+                                                     I was worried about situations in which I might panic and make a fool of myself. 0.233
+  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.227
+                                                                                                 I was in a state of nervous tension. 0.219
+                                                                        I couldn't seem to get any enjoyment out of the things I did. 0.210
+                                                                                                 I was in a state of nervous tension. 0.206
+                                                                                                    I felt that life was meaningless. 0.204
+                                                          node_i
+1174                                I felt I was close to panic.
+277   I had a feeling of shakiness (eg, legs going to give way).
+1209      I found it hard to calm down after something upset me.
+654    I felt that I had lost interest in just about everything.
+495             I felt that I was using a lot of nervous energy.
+878                          I felt that life wasn't worthwhile.
+                                                                                                                                   node_j       wto
+1174                                                     I was worried about situations in which I might panic and make a fool of myself. 0.2325795
+277   I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.2269246
+1209                                                                                                 I was in a state of nervous tension. 0.2192060
+654                                                                         I couldn't seem to get any enjoyment out of the things I did. 0.2103311
+495                                                                                                  I was in a state of nervous tension. 0.2055996
+878                                                                                                     I felt that life was meaningless. 0.2044026

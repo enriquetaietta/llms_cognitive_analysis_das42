@@ -1,0 +1,46 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.532
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.401
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                                                                                               node_i
+                                                                           I had a feeling of shakiness (eg, legs going to give way).
+                                                                                                            I felt sad and depressed.
+                                                                                                       I found it difficult to relax.
+  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat).
+                                                                                               I felt scared without any good reason.
+                                                                                        I felt that I had nothing to look forward to.
+                                                                                I found myself getting upset by quite trivial things.
+                                                      node_j   wto
+                               I had a feeling of faintness. 0.249
+                                I felt downhearted and blue. 0.242
+                               I found it hard to wind down. 0.231
+                 I experienced trembling (eg, in the hands). 0.212
+                                           I felt terrified. 0.211
+                         I felt that life wasn't worthwhile. 0.209
+  I had a feeling of shakiness (eg, legs going to give way). 0.204
+                                                                                                                                   node_i
+267                                                                            I had a feeling of shakiness (eg, legs going to give way).
+530                                                                                                             I felt sad and depressed.
+316                                                                                                        I found it difficult to relax.
+1049  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat).
+834                                                                                                I felt scared without any good reason.
+399                                                                                         I felt that I had nothing to look forward to.
+7                                                                                   I found myself getting upset by quite trivial things.
+                                                          node_j       wto
+267                                I had a feeling of faintness. 0.2489672
+530                                 I felt downhearted and blue. 0.2421816
+316                                I found it hard to wind down. 0.2308314
+1049                 I experienced trembling (eg, in the hands). 0.2119345
+834                                            I felt terrified. 0.2114569
+399                          I felt that life wasn't worthwhile. 0.2088624
+7     I had a feeling of shakiness (eg, legs going to give way). 0.2038689

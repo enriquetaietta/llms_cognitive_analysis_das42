@@ -1,0 +1,31 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.462
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.376
+                                       I found it difficult to relax.                                                      I found it hard to wind down. 0.336
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                  node_i                        node_j   wto
+  I felt scared without any good reason.             I felt terrified. 0.287
+               I felt sad and depressed.  I felt downhearted and blue. 0.250
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                         node_i                                                        node_j   wto
+                            I felt that life wasn't worthwhile.        I could see nothing in the future to be hopeful about. 0.226
+                             I just couldn't seem to get going.  I found it difficult to work up the initiative to do things. 0.218
+                  I felt that I had nothing to look forward to.                           I felt that life wasn't worthwhile. 0.211
+  I couldn't seem to get any enjoyment out of the things I did.           I was unable to become enthusiastic about anything. 0.205
+      I felt that I had lost interest in just about everything.           I was unable to become enthusiastic about anything. 0.205
+                                                            node_i                                                        node_j       wto
+877                            I felt that life wasn't worthwhile.        I could see nothing in the future to be hopeful about. 0.2259824
+210                             I just couldn't seem to get going.  I found it difficult to work up the initiative to do things. 0.2184690
+399                  I felt that I had nothing to look forward to.                           I felt that life wasn't worthwhile. 0.2107167
+997  I couldn't seem to get any enjoyment out of the things I did.           I was unable to become enthusiastic about anything. 0.2049575
+661      I felt that I had lost interest in just about everything.           I was unable to become enthusiastic about anything. 0.2046432
