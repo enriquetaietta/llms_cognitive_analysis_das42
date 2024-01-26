@@ -1,0 +1,32 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.402
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.319
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                         node_i                               node_j   wto
+                      I felt sad and depressed.         I felt downhearted and blue. 0.299
+  I felt that I had nothing to look forward to.  I felt that life wasn't worthwhile. 0.281
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                     node_i                                                         node_j   wto
+                     I felt scared without any good reason.                                              I felt terrified. 0.226
+  I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.216
+                      I tended to overreact to situations.                                I felt that I was rather touchy. 0.216
+                        I felt that life wasn't worthwhile.         I could see nothing in the future to be hopeful about. 0.204
+                             I found it difficult to relax.                                  I found it hard to wind down. 0.204
+                              I had a feeling of faintness.                                I had difficulty in swallowing. 0.200
+                                                        node_i                                                         node_j       wto
+834                     I felt scared without any good reason.                                              I felt terrified. 0.2257001
+654  I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.2161662
+228                      I tended to overreact to situations.                                I felt that I was rather touchy. 0.2157065
+877                        I felt that life wasn't worthwhile.         I could see nothing in the future to be hopeful about. 0.2043601
+316                             I found it difficult to relax.                                  I found it hard to wind down. 0.2041620
+611                              I had a feeling of faintness.                                I had difficulty in swallowing. 0.2000746
