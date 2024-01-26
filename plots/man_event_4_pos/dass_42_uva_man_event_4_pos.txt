@@ -1,0 +1,46 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                                                                                     node_i
+                                                        I found it difficult to tolerate interruptions to what I was doing.
+                                                                                                  I felt sad and depressed.
+                                                                                    I felt I wasn't worth much as a person.
+  I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).
+                                                                                      I tended to overreact to situations. 
+                                                                             node_j   wto
+  I was intolerant of anything that kept me from getting on with what I was doing.  0.443
+                                                       I felt downhearted and blue. 0.401
+                                                     I felt I was pretty worthless. 0.370
+                                                      I had a feeling of faintness. 0.319
+                                                   I felt that I was rather touchy. 0.304
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                     node_i                                                      node_j   wto
+              I felt that I had nothing to look forward to.                         I felt that life wasn't worthwhile. 0.299
+  I felt that I had lost interest in just about everything.         I was unable to become enthusiastic about anything. 0.283
+                         I just couldn't seem to get going.  I had a feeling of shakiness (eg, legs going to give way). 0.282
+                        I felt that life wasn't worthwhile.      I could see nothing in the future to be hopeful about. 0.271
+                         I found that I was very irritable.                            I found myself getting agitated. 0.259
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                         node_i                                                         node_j   wto
+      I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.237
+         I could see nothing in the future to be hopeful about.                              I felt that life was meaningless. 0.235
+                        I was aware of the dryness of my mouth.                                I had difficulty in swallowing. 0.232
+          I found myself getting upset by quite trivial things.                        I was aware of the dryness of my mouth. 0.219
+  I couldn't seem to get any enjoyment out of the things I did.            I was unable to become enthusiastic about anything. 0.217
+                          I tended to overreact to situations.                     I found myself getting upset rather easily. 0.209
+                                 I found it difficult to relax.                                  I found it hard to wind down. 0.202
+                                                             node_i                                                         node_j       wto
+654       I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.2368253
+1550         I could see nothing in the future to be hopeful about.                              I felt that life was meaningless. 0.2348825
+65                          I was aware of the dryness of my mouth.                                I had difficulty in swallowing. 0.2321776
+2             I found myself getting upset by quite trivial things.                        I was aware of the dryness of my mouth. 0.2185884
+997   I couldn't seem to get any enjoyment out of the things I did.            I was unable to become enthusiastic about anything. 0.2171918
+221                           I tended to overreact to situations.                     I found myself getting upset rather easily. 0.2087120
+316                                  I found it difficult to relax.                                  I found it hard to wind down. 0.2015520

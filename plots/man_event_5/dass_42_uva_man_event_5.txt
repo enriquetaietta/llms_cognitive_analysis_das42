@@ -1,0 +1,25 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.436
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.351
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                     node_i                        node_j  wto
+  I felt sad and depressed.  I felt downhearted and blue. 0.28
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                     node_i                                               node_j   wto
+                             I found it difficult to relax.                        I found it hard to wind down. 0.250
+                              I had a feeling of faintness.                      I had difficulty in swallowing. 0.236
+  I felt that I had lost interest in just about everything.  I was unable to become enthusiastic about anything. 0.234
+                                                        node_i                                               node_j       wto
+316                             I found it difficult to relax.                        I found it hard to wind down. 0.2499650
+611                              I had a feeling of faintness.                      I had difficulty in swallowing. 0.2355757
+661  I felt that I had lost interest in just about everything.  I was unable to become enthusiastic about anything. 0.2342618

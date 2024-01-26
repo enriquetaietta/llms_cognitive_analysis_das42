@@ -1,0 +1,29 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.475
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.402
+                                            I felt sad and depressed.                                                       I felt downhearted and blue. 0.323
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                     node_i                                               node_j   wto
+  I felt that I had lost interest in just about everything.  I was unable to become enthusiastic about anything. 0.274
+                             I found it difficult to relax.                        I found it hard to wind down. 0.273
+                     I felt scared without any good reason.                                    I felt terrified. 0.262
+     I could see nothing in the future to be hopeful about.                    I felt that life was meaningless. 0.255
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                     node_i                                                         node_j   wto
+  I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.223
+                        I felt that life wasn't worthwhile.         I could see nothing in the future to be hopeful about. 0.220
+                            I had difficulty in swallowing.                    I experienced trembling (eg, in the hands). 0.210
+                                                        node_i                                                         node_j       wto
+654  I felt that I had lost interest in just about everything.  I couldn't seem to get any enjoyment out of the things I did. 0.2229456
+877                        I felt that life wasn't worthwhile.         I could see nothing in the future to be hopeful about. 0.2195872
+965                            I had difficulty in swallowing.                    I experienced trembling (eg, in the hands). 0.2095147

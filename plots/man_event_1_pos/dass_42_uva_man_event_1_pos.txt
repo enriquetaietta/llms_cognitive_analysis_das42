@@ -1,0 +1,44 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.347
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                   node_i
+                I felt sad and depressed.
+             I felt I was close to panic.
+  I was aware of the dryness of my mouth.
+            I had a feeling of faintness.
+                                                                                                                               node_j   wto
+                                                                                                         I felt downhearted and blue. 0.286
+                                                     I was worried about situations in which I might panic and make a fool of myself. 0.271
+  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.254
+                                                                                                      I had difficulty in swallowing. 0.252
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                                                                node_i
+  I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion.
+                                                               I felt I wasn't worth much as a person.
+                                I feared that I would be 'thrown' by some trivial but unfamiliar task.
+                                                                   I felt that life wasn't worthwhile.
+                                                                            node_j   wto
+                                            I felt scared without any good reason. 0.219
+                                                    I felt I was pretty worthless. 0.217
+  I was worried about situations in which I might panic and make a fool of myself. 0.212
+                            I could see nothing in the future to be hopeful about. 0.208
+                                                                                                    node_i
+776   I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion.
+706                                                                I felt I wasn't worth much as a person.
+1258                                I feared that I would be 'thrown' by some trivial but unfamiliar task.
+877                                                                    I felt that life wasn't worthwhile.
+                                                                                node_j       wto
+776                                             I felt scared without any good reason. 0.2188289
+706                                                     I felt I was pretty worthless. 0.2173569
+1258  I was worried about situations in which I might panic and make a fool of myself. 0.2116575
+877                             I could see nothing in the future to be hopeful about. 0.2077767

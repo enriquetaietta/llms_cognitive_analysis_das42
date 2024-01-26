@@ -1,0 +1,52 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.460
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.372
+                                       I found it difficult to relax.                                                      I found it hard to wind down. 0.323
+            I felt that I had lost interest in just about everything.                      I couldn't seem to get any enjoyment out of the things I did. 0.309
+                               I felt scared without any good reason.                                                                  I felt terrified. 0.307
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                  node_i                             node_j   wto
+  I could see nothing in the future to be hopeful about.  I felt that life was meaningless. 0.285
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                      node_i
+                                I felt I was close to panic.
+                                   I felt sad and depressed.
+                          I found that I was very irritable.
+  I had a feeling of shakiness (eg, legs going to give way).
+               I felt that I had nothing to look forward to.
+                 I found myself getting upset rather easily.
+                         I felt that life wasn't worthwhile.
+                                                                                                                               node_j   wto
+                                                     I was worried about situations in which I might panic and make a fool of myself. 0.243
+                                                                                                         I felt downhearted and blue. 0.237
+                                                                                                     I found myself getting agitated. 0.231
+  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.219
+                                                                                                  I felt that life wasn't worthwhile. 0.217
+                                                                                                     I felt that I was rather touchy. 0.209
+                                                                               I could see nothing in the future to be hopeful about. 0.203
+                                                          node_i
+1174                                I felt I was close to panic.
+530                                    I felt sad and depressed.
+1131                          I found that I was very irritable.
+277   I had a feeling of shakiness (eg, legs going to give way).
+399                I felt that I had nothing to look forward to.
+438                  I found myself getting upset rather easily.
+877                          I felt that life wasn't worthwhile.
+                                                                                                                                   node_j       wto
+1174                                                     I was worried about situations in which I might panic and make a fool of myself. 0.2427347
+530                                                                                                          I felt downhearted and blue. 0.2366524
+1131                                                                                                     I found myself getting agitated. 0.2311036
+277   I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.2187099
+399                                                                                                   I felt that life wasn't worthwhile. 0.2174162
+438                                                                                                      I felt that I was rather touchy. 0.2090927
+877                                                                                I could see nothing in the future to be hopeful about. 0.2027439

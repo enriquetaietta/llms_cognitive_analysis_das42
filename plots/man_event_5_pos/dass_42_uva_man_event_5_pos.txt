@@ -1,0 +1,46 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                   node_i                          node_j   wto
+  I felt I wasn't worth much as a person.  I felt I was pretty worthless. 0.375
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+                        I felt that I had nothing to look forward to.                                                I felt that life wasn't worthwhile. 0.294
+                                            I felt sad and depressed.                                                       I felt downhearted and blue. 0.286
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.256
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                                                                node_i
+                                                                   I felt that life wasn't worthwhile.
+                                             I felt that I had lost interest in just about everything.
+                                                                         I had a feeling of faintness.
+  I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion.
+                                I feared that I would be 'thrown' by some trivial but unfamiliar task.
+                                             I felt that I had lost interest in just about everything.
+                                                                                                                               node_j   wto
+                                                                               I could see nothing in the future to be hopeful about. 0.227
+                                                                        I couldn't seem to get any enjoyment out of the things I did. 0.222
+                                                                                                      I had difficulty in swallowing. 0.211
+  I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.207
+                                                                                                                    I felt terrified. 0.205
+                                                                                  I was unable to become enthusiastic about anything. 0.204
+                                                                                                    node_i
+877                                                                    I felt that life wasn't worthwhile.
+654                                              I felt that I had lost interest in just about everything.
+611                                                                          I had a feeling of faintness.
+781   I perspired noticeably (eg, hands sweaty), in the absence of high temperatures or physical exertion.
+1254                                I feared that I would be 'thrown' by some trivial but unfamiliar task.
+661                                              I felt that I had lost interest in just about everything.
+                                                                                                                                   node_j       wto
+877                                                                                I could see nothing in the future to be hopeful about. 0.2265692
+654                                                                         I couldn't seem to get any enjoyment out of the things I did. 0.2219530
+611                                                                                                       I had difficulty in swallowing. 0.2108263
+781   I was aware of the action of my heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat). 0.2070846
+1254                                                                                                                    I felt terrified. 0.2046122
+661                                                                                   I was unable to become enthusiastic about anything. 0.2037267
