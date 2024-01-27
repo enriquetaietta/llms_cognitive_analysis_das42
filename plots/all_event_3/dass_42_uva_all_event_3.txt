@@ -1,0 +1,29 @@
+Variable pairs with wTO > 0.30 (large-to-very large redundancy)
+
+                                                               node_i                                                                             node_j   wto
+  I found it difficult to tolerate interruptions to what I was doing.  I was intolerant of anything that kept me from getting on with what I was doing.  0.394
+                              I felt I wasn't worth much as a person.                                                     I felt I was pretty worthless. 0.306
+                        I felt that I had nothing to look forward to.                                                I felt that life wasn't worthwhile. 0.306
+
+----
+
+Variable pairs with wTO > 0.25 (moderate-to-large redundancy)
+
+                                  node_i                        node_j   wto
+               I felt sad and depressed.  I felt downhearted and blue. 0.295
+  I felt scared without any good reason.             I felt terrified. 0.259
+
+----
+
+Variable pairs with wTO > 0.20 (small-to-moderate redundancy)
+
+                                                     node_i                                                                            node_j   wto
+                        I felt that life wasn't worthwhile.                            I could see nothing in the future to be hopeful about. 0.239
+  I felt that I had lost interest in just about everything.                     I couldn't seem to get any enjoyment out of the things I did. 0.227
+                      I tended to overreact to situations.                                                   I felt that I was rather touchy. 0.211
+                               I felt I was close to panic.  I was worried about situations in which I might panic and make a fool of myself. 0.208
+                                                         node_i                                                                            node_j       wto
+877                         I felt that life wasn't worthwhile.                            I could see nothing in the future to be hopeful about. 0.2387390
+654   I felt that I had lost interest in just about everything.                     I couldn't seem to get any enjoyment out of the things I did. 0.2265514
+228                       I tended to overreact to situations.                                                   I felt that I was rather touchy. 0.2109637
+1174                               I felt I was close to panic.  I was worried about situations in which I might panic and make a fool of myself. 0.2078987
