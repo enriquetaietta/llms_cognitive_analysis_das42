@@ -1,0 +1,10 @@
+ dim       name                                      questions
+   1      MIXED                       Q1 Q2 Q8 Q11 Q14 Q19 Q25
+   2 DEPRESSION Q3 Q10 Q13 Q16 Q17 Q21 Q24 Q26 Q31 Q34 Q37 Q38
+   3      MIXED  Q5 Q6 Q12 Q18 Q22 Q27 Q29 Q32 Q33 Q35 Q39 Q42
+   4    ANXIETY                         Q9 Q20 Q28 Q30 Q36 Q40
+     FORCE
+  4.983219
+ 11.501887
+ 10.386716
+  5.685272

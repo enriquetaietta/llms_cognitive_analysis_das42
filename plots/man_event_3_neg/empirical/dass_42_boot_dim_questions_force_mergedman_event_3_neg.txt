@@ -1,0 +1,8 @@
+ dim       name                       questions    FORCE
+   1      MIXED         Q1 Q2 Q6 Q8 Q19 Q25 Q36 6.307445
+   2 DEPRESSION  Q3 Q13 Q16 Q17 Q24 Q26 Q31 Q34 7.348153
+   3      MIXED                      Q5 Q22 Q42 2.076615
+   4    ANXIETY              Q9 Q20 Q28 Q30 Q40 4.064776
+   5 DEPRESSION                 Q10 Q21 Q37 Q38 3.816459
+   6     STRESS Q11 Q12 Q14 Q18 Q27 Q29 Q33 Q39 7.069263
+   7     STRESS                         Q32 Q35 2.008952

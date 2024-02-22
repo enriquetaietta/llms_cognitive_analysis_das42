@@ -1,0 +1,7 @@
+ dim       name                                      questions     FORCE jaccard_index
+   3 DEPRESSION Q3 Q10 Q13 Q16 Q17 Q21 Q24 Q26 Q31 Q34 Q37 Q38 11.827017     0.8571429
+   2      MIXED                Q2 Q4 Q6 Q7 Q15 Q19 Q23 Q25 Q41  8.410244            NA
+   4      MIXED                  Q5 Q8 Q12 Q22 Q29 Q33 Q39 Q42  5.994074            NA
+   5    ANXIETY                         Q9 Q20 Q28 Q30 Q36 Q40  5.852436     0.4285714
+   1     STRESS                             Q1 Q11 Q14 Q18 Q27  3.976745     0.3571429
+   6     STRESS                                        Q32 Q35  2.008398     0.1428571

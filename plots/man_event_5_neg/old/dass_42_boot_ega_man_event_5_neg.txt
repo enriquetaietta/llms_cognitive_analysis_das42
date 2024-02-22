@@ -1,0 +1,14 @@
+Model: GLASSO (EBIC)
+Correlations: auto
+Algorithm:  Walktrap
+Unidimensional Method:  Louvain
+
+----
+
+EGA Type: EGA 
+Bootstrap Samples: 500 (Parametric)
+                                                    
+               4     5     6     7     8     9    10
+Frequency:  0.19 0.378 0.322 0.092 0.008 0.006 0.004
+
+Median dimensions: 5 [3.03, 6.97] 95% CINULL
