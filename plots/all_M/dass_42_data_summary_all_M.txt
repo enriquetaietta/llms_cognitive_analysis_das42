@@ -1,0 +1,49 @@
+      V1                  V2              V3              V4              V5              V6              V7       
+ Length:4626        Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ Class :character   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:2.000   1st Qu.:2.000  
+ Mode  :character   Median :2.000   Median :1.000   Median :2.000   Median :1.000   Median :2.000   Median :2.000  
+                    Mean   :1.761   Mean   :1.157   Mean   :1.586   Mean   :1.023   Mean   :2.227   Mean   :1.926  
+                    3rd Qu.:2.000   3rd Qu.:1.000   3rd Qu.:2.000   3rd Qu.:1.000   3rd Qu.:3.000   3rd Qu.:2.000  
+                    Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :3.000   Max.   :4.000   Max.   :4.000  
+       V8              V9             V10             V11             V12             V13            V14       
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.00   Min.   :1.000  
+ 1st Qu.:1.000   1st Qu.:3.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:2.000   1st Qu.:2.00   1st Qu.:1.000  
+ Median :1.000   Median :3.000   Median :2.000   Median :2.000   Median :2.000   Median :2.00   Median :1.000  
+ Mean   :1.031   Mean   :2.834   Mean   :1.741   Mean   :1.665   Mean   :1.938   Mean   :2.27   Mean   :1.545  
+ 3rd Qu.:1.000   3rd Qu.:3.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:3.00   3rd Qu.:2.000  
+ Max.   :3.000   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.00   Max.   :4.000  
+      V15             V16             V17             V18             V19             V20             V21       
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:2.000   1st Qu.:1.000   1st Qu.:1.000  
+ Median :2.000   Median :1.000   Median :2.000   Median :1.000   Median :2.000   Median :1.000   Median :1.000  
+ Mean   :1.776   Mean   :1.019   Mean   :1.708   Mean   :1.431   Mean   :1.848   Mean   :1.067   Mean   :1.186  
+ 3rd Qu.:2.000   3rd Qu.:1.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:1.000   3rd Qu.:1.000  
+ Max.   :4.000   Max.   :2.000   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :3.000   Max.   :4.000  
+      V22            V23             V24             V25             V26             V27             V28      
+ Min.   :1.00   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.00  
+ 1st Qu.:1.00   1st Qu.:2.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:2.00  
+ Median :1.00   Median :2.000   Median :1.000   Median :2.000   Median :1.000   Median :1.000   Median :2.00  
+ Mean   :1.56   Mean   :2.449   Mean   :1.024   Mean   :1.807   Mean   :1.075   Mean   :1.652   Mean   :1.89  
+ 3rd Qu.:2.00   3rd Qu.:3.000   3rd Qu.:1.000   3rd Qu.:2.000   3rd Qu.:1.000   3rd Qu.:2.000   3rd Qu.:2.00  
+ Max.   :4.00   Max.   :4.000   Max.   :3.000   Max.   :4.000   Max.   :3.000   Max.   :4.000   Max.   :4.00  
+      V29            V30             V31             V32             V33             V34             V35       
+ Min.   :1.00   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:1.00   1st Qu.:2.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:2.000   1st Qu.:2.000   1st Qu.:1.000  
+ Median :1.00   Median :2.000   Median :1.000   Median :2.000   Median :2.000   Median :2.000   Median :1.000  
+ Mean   :1.42   Mean   :2.151   Mean   :1.331   Mean   :1.788   Mean   :1.894   Mean   :2.162   Mean   :1.446  
+ 3rd Qu.:2.00   3rd Qu.:3.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:3.000   3rd Qu.:2.000  
+ Max.   :4.00   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000  
+      V36             V37            V38             V39             V40             V41             V42       
+ Min.   :1.000   Min.   :1.00   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:2.000   1st Qu.:1.00   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:2.000   1st Qu.:1.000   1st Qu.:1.000  
+ Median :2.000   Median :1.00   Median :1.000   Median :1.000   Median :2.000   Median :1.000   Median :1.000  
+ Mean   :1.929   Mean   :1.25   Mean   :1.616   Mean   :1.502   Mean   :1.909   Mean   :1.506   Mean   :1.055  
+ 3rd Qu.:2.000   3rd Qu.:1.00   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:2.000   3rd Qu.:1.000  
+ Max.   :4.000   Max.   :4.00   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :3.000  
+      V43           GENDER              EVENT        EVENT_TYPE       
+ Min.   :1.000   Length:4626        Min.   :1.000   Length:4626       
+ 1st Qu.:2.000   Class :character   1st Qu.:2.000   Class :character  
+ Median :2.000   Mode  :character   Median :3.000   Mode  :character  
+ Mean   :1.871                      Mean   :2.996                     
+ 3rd Qu.:2.000                      3rd Qu.:4.000                     
+ Max.   :4.000                      Max.   :5.000                     
