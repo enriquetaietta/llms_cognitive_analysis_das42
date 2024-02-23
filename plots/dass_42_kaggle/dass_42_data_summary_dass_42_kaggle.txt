@@ -1,0 +1,126 @@
+    major                Q1A             Q2A       
+ Length:39775       Min.   :1.000   Min.   :1.000  
+ Class :character   1st Qu.:2.000   1st Qu.:1.000  
+ Mode  :character   Median :3.000   Median :2.000  
+                    Mean   :2.619   Mean   :2.172  
+                    3rd Qu.:4.000   3rd Qu.:3.000  
+                    Max.   :4.000   Max.   :4.000  
+      Q3A             Q4A            Q5A             Q6A      
+ Min.   :1.000   Min.   :1.00   Min.   :1.000   Min.   :1.00  
+ 1st Qu.:1.000   1st Qu.:1.00   1st Qu.:2.000   1st Qu.:2.00  
+ Median :2.000   Median :2.00   Median :2.000   Median :2.00  
+ Mean   :2.226   Mean   :1.95   Mean   :2.521   Mean   :2.54  
+ 3rd Qu.:3.000   3rd Qu.:3.00   3rd Qu.:3.000   3rd Qu.:3.00  
+ Max.   :4.000   Max.   :4.00   Max.   :4.000   Max.   :4.00  
+      Q7A             Q8A            Q9A            Q10A      
+ Min.   :1.000   Min.   :1.00   Min.   :1.00   Min.   :1.000  
+ 1st Qu.:1.000   1st Qu.:2.00   1st Qu.:2.00   1st Qu.:1.000  
+ Median :2.000   Median :2.00   Median :3.00   Median :2.000  
+ Mean   :1.925   Mean   :2.48   Mean   :2.67   Mean   :2.447  
+ 3rd Qu.:3.000   3rd Qu.:3.00   3rd Qu.:4.00   3rd Qu.:4.000  
+ Max.   :4.000   Max.   :4.00   Max.   :4.00   Max.   :4.000  
+      Q11A            Q12A            Q13A            Q14A     
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.00  
+ 1st Qu.:2.000   1st Qu.:2.000   1st Qu.:2.000   1st Qu.:2.00  
+ Median :3.000   Median :2.000   Median :3.000   Median :2.00  
+ Mean   :2.803   Mean   :2.426   Mean   :2.785   Mean   :2.58  
+ 3rd Qu.:4.000   3rd Qu.:3.000   3rd Qu.:4.000   3rd Qu.:4.00  
+ Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.00  
+      Q15A            Q16A           Q17A            Q18A      
+ Min.   :1.000   Min.   :1.00   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:1.000   1st Qu.:2.00   1st Qu.:2.000   1st Qu.:2.000  
+ Median :2.000   Median :2.00   Median :3.000   Median :2.000  
+ Mean   :1.827   Mean   :2.52   Mean   :2.659   Mean   :2.478  
+ 3rd Qu.:2.000   3rd Qu.:4.00   3rd Qu.:4.000   3rd Qu.:3.000  
+ Max.   :4.000   Max.   :4.00   Max.   :4.000   Max.   :4.000  
+      Q19A            Q20A            Q21A           Q22A      
+ Min.   :1.000   Min.   :1.000   Min.   :1.00   Min.   :1.000  
+ 1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.00   1st Qu.:2.000  
+ Median :2.000   Median :2.000   Median :2.00   Median :2.000  
+ Mean   :1.946   Mean   :2.323   Mean   :2.35   Mean   :2.344  
+ 3rd Qu.:3.000   3rd Qu.:3.000   3rd Qu.:3.00   3rd Qu.:3.000  
+ Max.   :4.000   Max.   :4.000   Max.   :4.00   Max.   :4.000  
+      Q23A            Q24A            Q25A            Q26A      
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:1.000   1st Qu.:2.000   1st Qu.:1.000   1st Qu.:2.000  
+ Median :1.000   Median :2.000   Median :2.000   Median :3.000  
+ Mean   :1.562   Mean   :2.437   Mean   :2.184   Mean   :2.659  
+ 3rd Qu.:2.000   3rd Qu.:3.000   3rd Qu.:3.000   3rd Qu.:4.000  
+ Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000  
+      Q27A            Q28A            Q29A            Q30A      
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:2.000   1st Qu.:1.000   1st Qu.:2.000   1st Qu.:1.000  
+ Median :3.000   Median :2.000   Median :3.000   Median :2.000  
+ Mean   :2.612   Mean   :2.217   Mean   :2.653   Mean   :2.392  
+ 3rd Qu.:4.000   3rd Qu.:3.000   3rd Qu.:4.000   3rd Qu.:3.000  
+ Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000  
+      Q31A            Q32A            Q33A            Q34A      
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:2.000   1st Qu.:2.000   1st Qu.:2.000   1st Qu.:2.000  
+ Median :2.000   Median :2.000   Median :2.000   Median :3.000  
+ Mean   :2.377   Mean   :2.446   Mean   :2.414   Mean   :2.634  
+ 3rd Qu.:3.000   3rd Qu.:3.000   3rd Qu.:3.000   3rd Qu.:4.000  
+ Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000  
+      Q35A            Q36A            Q37A            Q38A      
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.000  
+ 1st Qu.:2.000   1st Qu.:1.000   1st Qu.:1.000   1st Qu.:1.000  
+ Median :2.000   Median :2.000   Median :2.000   Median :2.000  
+ Mean   :2.303   Mean   :2.268   Mean   :2.374   Mean   :2.393  
+ 3rd Qu.:3.000   3rd Qu.:3.000   3rd Qu.:3.000   3rd Qu.:4.000  
+ Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.000  
+      Q39A            Q40A            Q41A            Q42A     
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :1.00  
+ 1st Qu.:2.000   1st Qu.:2.000   1st Qu.:1.000   1st Qu.:2.00  
+ Median :2.000   Median :3.000   Median :2.000   Median :3.00  
+ Mean   :2.454   Mean   :2.651   Mean   :1.966   Mean   :2.68  
+ 3rd Qu.:3.000   3rd Qu.:4.000   3rd Qu.:3.000   3rd Qu.:4.00  
+ Max.   :4.000   Max.   :4.000   Max.   :4.000   Max.   :4.00  
+   country            education         urban     
+ Length:39775       Min.   :0.000   Min.   :0.00  
+ Class :character   1st Qu.:2.000   1st Qu.:2.00  
+ Mode  :character   Median :3.000   Median :2.00  
+                    Mean   :2.504   Mean   :2.22  
+                    3rd Qu.:3.000   3rd Qu.:3.00  
+                    Max.   :4.000   Max.   :3.00  
+     gender         engnat           age         
+ Min.   :0.00   Min.   :0.000   Min.   :  13.00  
+ 1st Qu.:2.00   1st Qu.:1.000   1st Qu.:  18.00  
+ Median :2.00   Median :2.000   Median :  21.00  
+ Mean   :1.79   Mean   :1.636   Mean   :  23.61  
+ 3rd Qu.:2.00   3rd Qu.:2.000   3rd Qu.:  25.00  
+ Max.   :3.00   Max.   :2.000   Max.   :1998.00  
+   screensize    uniquenetworklocation      hand      
+ Min.   :1.000   Min.   :1.0           Min.   :0.000  
+ 1st Qu.:1.000   1st Qu.:1.0           1st Qu.:1.000  
+ Median :1.000   Median :1.0           Median :1.000  
+ Mean   :1.275   Mean   :1.2           Mean   :1.135  
+ 3rd Qu.:2.000   3rd Qu.:1.0           3rd Qu.:1.000  
+ Max.   :2.000   Max.   :2.0           Max.   :3.000  
+    religion       orientation         race      
+ Min.   : 0.000   Min.   :0.000   Min.   :10.00  
+ 1st Qu.: 4.000   1st Qu.:1.000   1st Qu.:10.00  
+ Median :10.000   Median :1.000   Median :10.00  
+ Mean   : 7.556   Mean   :1.643   Mean   :31.31  
+ 3rd Qu.:10.000   3rd Qu.:2.000   3rd Qu.:60.00  
+ Max.   :12.000   Max.   :5.000   Max.   :70.00  
+     voted          married       familysize        X          
+ Min.   :0.000   Min.   :0.00   Min.   :  0.00   Mode:logical  
+ 1st Qu.:1.000   1st Qu.:1.00   1st Qu.:  2.00   NA's:39775    
+ Median :2.000   Median :1.00   Median :  3.00                 
+ Mean   :1.706   Mean   :1.16   Mean   :  3.51                 
+ 3rd Qu.:2.000   3rd Qu.:1.00   3rd Qu.:  4.00                 
+ Max.   :2.000   Max.   :3.00   Max.   :133.00                 
+     X.1                X.2                X.3           
+ Length:39775       Length:39775       Length:39775      
+ Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character  
+                                                         
+                                                         
+                                                         
+     X.4           
+ Length:39775      
+ Class :character  
+ Mode  :character  
+                   
+                   
+                   
