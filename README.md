@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is dedicated to the exploration and analysis of psychological prompts, primarily focusing on the DAS-42 test, using state-of-the-art Language Models (LLMs). The intersection of natural language processing and psychological assessments provides a unique opportunity to gain deep insights into cognitive and emotional aspects.
+This repository is dedicated to the exploration and analysis of psychological prompts, primarily focusing on the DASS-42 test, using state-of-the-art Language Models (LLMs). The intersection of natural language processing and psychological assessments provides a unique opportunity to gain deep insights into cognitive and emotional aspects.
 
 ## What is DASS-42?
 
@@ -10,7 +10,7 @@ The DASS-42 is a self-report scale comprising 42 items, meticulously designed to
 
 ## About LLMs
 
-Language Models, especially Large Language Models (LLMs), such as GPT-3.5, have demonstrated remarkable capabilities in understanding and generating human-like text. Leveraging these models in psychological research allows for the analysis of nuanced linguistic patterns, potentially uncovering hidden insights within the responses to DAS-42 prompts.
+Language Models, especially Large Language Models (LLMs), such as GPT-3.5, have demonstrated remarkable capabilities in understanding and generating human-like text. Leveraging these models in psychological research allows for the analysis of nuanced linguistic patterns, potentially uncovering hidden insights within the responses to DASS-42 prompts.
 
 ## Repository Contents
 
