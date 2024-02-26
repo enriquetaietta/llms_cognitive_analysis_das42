@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wdBpi2QrOkp1Dqgoail7o57xxMFx",
+  "object": "chat.completion",
+  "created": 1708984361,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but it didn't impact me significantly throughout the week. \nQ2: 1: I did not experience any dryness in my mouth over the past week. \nQ3: 1: I was able to experience positive feelings and emotions regularly. \nQ4: 1: I did not experience any breathing difficulties unrelated to physical exertion. \nQ5: 3: I struggled to get going on certain days due to feeling overwhelmed with my research work and deadlines. \nQ6: 2: I tended to over-react to situations sometimes, especially when under pressure. \nQ7: 1: I did not have a feeling of shakiness in my legs. \nQ8: 3: I found it difficult to fully relax due to the pressure of my research and upcoming deadlines. \nQ9: 2: I encountered situations that made me anxious, but I was able to manage and cope with them effectively. \nQ10: 2: I felt moments of uncertainty about the future, but I also had things to look forward to, like presenting my research at a conference. \nQ11: 2: I found myself getting upset rather easily at times, but it was not a dominant feeling during the week. \nQ12: 2: I felt like I was using a good amount of nervous energy, especially when preparing for my research presentation. \nQ13: 1: I did not feel sad and depressed during the past week. \nQ14: 2: I experienced impatience in certain situations, but it was manageable. \nQ15: 1: I did not feel any faintness recently. \nQ16: 2: I did not lose interest in everything, but I had moments of feeling unmotivated. \nQ17: 1: I did not feel like I wasn't worth much as a person. \nQ18: 2: I was not touchy most of the time, but there were instances where I felt more sensitive. \nQ19: 1: I did not perspire noticeably without physical exertion. \nQ20: 1: I did not feel scared without reason. \nQ21: 2: I had moments of questioning life's worth, but it didn't dominate my thoughts throughout the week. \nQ22: 3: I found it hard to wind down due to the demands of my PhD program and research commitments. \nQ23: 1: I did not have difficulty in swallowing. \nQ24: 2: I found enjoyment in some things I did, but there were times when I struggled to find joy. \nQ25: 1: I did not experience any unusual heart sensations during the week. \nQ26: 1: I did not feel down-hearted or blue in the past week. \nQ27: 2: I was irritable at times due to stress, but it was not a constant feeling. \nQ28: 1: I did not feel close to panic recently. \nQ29: 2: I found it somewhat hard to calm down after being upset, but I was able to manage my emotions with coping strategies. \nQ30: 1: I didn't fear being thrown by trivial tasks. \nQ31: 2: I struggled to feel enthusiastic about everything, but I found moments of passion in my research. \nQ32: 2: I found interruptions annoying, but it didn't greatly affect my work progress. \nQ33: 2: I felt moments of nervous tension during the week, especially when facing tight deadlines. \nQ34: 1: I did\n"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 891,
+    "completion_tokens": 763,
+    "total_tokens": 1654
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}

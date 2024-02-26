@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wdNfshQbc33E9Wa79W7XJuSQ07k6",
+  "object": "chat.completion",
+  "created": 1708985095,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but it didn't dominate my week.\nQ2: 1: I wasn't particularly aware of any dryness in my mouth this past week.\nQ3: 2: I experienced moments of not feeling positive, but it wasn't a pervasive feeling throughout the week.\nQ4: 1: I did not experience any breathing difficulties this past week.\nQ5: 3: There were times when I struggled to get going with my work due to feeling overwhelmed by the tasks at hand.\nQ6: 2: While I tended to overreact to some situations, it wasn't a constant pattern in the past week.\nQ7: 1: I did not have any feelings of shakiness in my body this week.\nQ8: 3: I found it difficult to fully relax due to the pressure of my research and upcoming deadlines.\nQ9: 2: I didn't find myself in extremely anxiety-inducing situations this week; some mild anxiety but manageable.\nQ10: 2: I had moments of feeling a lack of things to look forward to, but it wasn't a pervasive feeling.\nQ11: 3: There were times when trivial things upset me easily, affecting my mood temporarily.\nQ12: 2: I felt like I was expending nervous energy at times, especially when under time constraints.\nQ13: 2: While there were instances of feeling sad and down, it wasn't a constant state throughout the week.\nQ14: 3: I found myself getting a bit impatient when faced with delays, impacting my mood briefly.\nQ15: 1: I did not experience any feelings of faintness this week.\nQ16: 2: I had moments of feeling disinterested, but it wasn't a pervasive feeling throughout the week.\nQ17: 1: I did not feel like I wasn't worth much as a person during this week.\nQ18: 2: I found myself a bit touchy in certain situations, but it wasn't a dominant feeling.\nQ19: 1: There was no noticeable perspiration in the absence of physical exertion for me this week.\nQ20: 1: I did not experience unfounded fear this past week.\nQ21: 1: I did not feel that life wasn't worthwhile this week.\nQ22: 3: It was hard to wind down after work due to my mind racing with thoughts related to my research.\nQ23: 1: I did not experience difficulty in swallowing during this week.\nQ24: 2: Despite enjoying my work, there were moments when it was challenging to find enjoyment in tasks.\nQ25: 1: I did not notice the action of my heart in the absence of physical exertion this week.\nQ26: 2: While feeling a bit down-hearted and blue at times, it didn't persist throughout the week.\nQ27: 2: There were moments of irritability, but it wasn't a constant feeling for me this past week.\nQ28: 1: I did not feel close to panic at any point during this week.\nQ29: 3: It was challenging to calm down quickly after stressors or upsets due to the pressure of my workload.\nQ30: 2: There were moments when trivial tasks caused some worry about being able to handle them effectively.\nQ31: 2: I struggled to become enthusiastic about tasks at times, especially when feeling fatigued.\nQ32: 2: While interruptions were somewhat bothersome, they didn't significantly impact my overall work.\nQ33: 3: I experienced periods of nervous tension, especially when deadlines were approaching rapidly.\nQ34: 1: I did not feel pretty worthless this week.\nQ35: 2: I was somewhat intolerant of interruptions to my work, but I managed to handle them reasonably well.\nQ36: 1: I did not feel terrified without reason this week.\nQ37: 2: While there were moments of feeling hopeless, it wasn't a pervasive feeling throughout the week.\nQ38: 1: I did not feel that life was meaningless this past week.\nQ39: 2: I found myself getting agitated in certain situations, but it didn't dominate my overall week.\nQ40: 1: I did not worry about panicking in embarrassing situations this past week.\nQ41: 1: I did not experience trembling in my hands during this week.\nQ42: 2: I struggled a bit with initiating tasks but managed to push through and get work done.\n\nAs a 25-year-old female PhD student in psychology, my responses reflect the mixture of pressures and challenges that come with conducting complex data analysis and managing the demands of academic research."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 879,
+    "completion_tokens": 987,
+    "total_tokens": 1866
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}
