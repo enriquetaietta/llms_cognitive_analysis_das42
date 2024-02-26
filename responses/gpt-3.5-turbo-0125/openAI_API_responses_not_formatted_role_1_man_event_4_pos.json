@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wXJFvkYZa6aBWqvadOGxwKyTnRZs",
+  "object": "chat.completion",
+  "created": 1708961757,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things, but I was able to quickly regain perspective and move past them.\nQ2: 2: I was aware of dryness of my mouth occasionally, especially during moments of stress or intense focus.\nQ3: 2: I couldn't seem to experience any positive feeling at all at times, but I was able to find small moments of joy throughout the week.\nQ4: 1: I did not experience any breathing difficulty beyond what is considered normal.\nQ5: 3: I just couldn't seem to get going some days, feeling overwhelmed by the workload and commitments I had to fulfill.\nQ6: 2: I tended to over-react to situations occasionally, especially when feeling under pressure or rushed.\nQ7: 1: I did not have a feeling of shakiness or weakness in my legs during the week.\nQ8: 3: I found it difficult to truly relax, as my mind was often preoccupied with my research and deadlines, making it hard to unwind completely.\nQ9: 2: I found myself in situations that made me anxious, but I was able to navigate through them with support from colleagues and supervisors.\nQ10: 2: I had moments where I felt I had nothing to look forward to, but I tried to focus on small goals and progress in my work.\nQ11: 2: I found myself getting upset rather easily on occasion, but I tried to practice mindfulness and not let minor issues affect me.\nQ12: 2: I felt that I was using a lot of nervous energy due to the demands of balancing teaching assistantships and research work.\nQ13: 1: I did not feel sad and depressed during the week.\nQ14: 2: I found myself getting impatient when delayed, but I reminded myself to practice patience and understanding.\nQ15: 1: I did not have a feeling of faintness.\nQ16: 2: I had moments where I felt I had lost interest in things, but I tried to engage in activities I enjoyed to uplift my mood.\nQ17: 1: I did not feel I wasn't worth much as a person.\nQ18: 2: I felt that I was rather touchy at times, but I tried to reflect on the reasons behind my heightened sensitivity.\nQ19: 1: I did not perspire noticeably beyond what is considered normal.\nQ20: 1: I did not feel scared without any good reason.\nQ21: 1: I did not feel that life wasn't worthwhile.\nQ22: 2: I found it hard to wind down some evenings, but I tried to incorporate relaxation techniques to help me unwind.\nQ23: 1: I did not have difficulty in swallowing.\nQ24: 2: I couldn't seem to get enjoyment out of everything I did, but I tried to find moments of fulfillment in my research progress.\nQ25: 1: I was not particularly aware of the action of my heart during the week.\nQ26: 1: I did not feel down-hearted and blue.\nQ27: 2: I found that I was somewhat irritable, especially when feeling overwhelmed with tasks, but I tried to address the root causes of my irritation.\nQ28: 1: I did not feel I was close to panic at any point during the week.\nQ29: 2: I found it hard to calm down after something upset me, but I practiced deep breathing and mindfulness to regain composure.\nQ30: 1: I was not unable to become enthusiastic about anything.\nQ31: 2: I found it difficult to tolerate interruptions to what I was doing, especially when deeply focused on research, but I tried to adapt and refocus.\nQ32: 2: I was in a state of nervous tension during times of high workload, making it challenging to relax fully.\nQ33: 1: I did not feel I was pretty worthless.\nQ34: 2: I was intolerant of anything that kept me from getting on with what I was doing, especially when on tight deadlines, but I tried to be more flexible.\nQ35: 1: I did not feel terrified at any point during the week.\nQ36: 1: I could see things in the future to be hopeful about.\nQ37: 1: I did not feel that life was meaningless.\nQ38: 2: I found myself getting agitated in certain situations, but I tried to address the sources of my agitation proactively.\nQ39: 1: I was not worried about situations in which I might panic and make a fool of myself.\nQ40: 1: I did not experience trembling in the hands.\nQ41: 2: I found it difficult to work up the initiative to do things on some occasions, but I tried to break tasks into smaller steps to overcome this.\n"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 896,
+    "completion_tokens": 1014,
+    "total_tokens": 1910
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}

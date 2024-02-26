@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wTmOvqWfAR3C9EzQGsQjku5mgayy",
+  "object": "chat.completion",
+  "created": 1708948188,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I was not particularly upset by trivial things this past week.\nQ2: 1: I did not experience dryness in my mouth recently.\nQ3: 2: While I had some moments of low mood, I was able to experience positive feelings as well.\nQ4: 1: I did not experience breathing difficulties without physical exertion recently.\nQ5: 2: I had moments where I struggled to get motivated, but I was able to push through eventually.\nQ6: 2: I tended not to over-react to situations this week.\nQ7: 1: I did not feel shaky this past week.\nQ8: 2: I found it somewhat difficult to fully relax due to my workload, but I was able to relax after some time.\nQ9: 1: I didn't find myself in extremely anxious situations that made me relieved when they ended.\nQ10: 2: While I had some moments of feeling aimless, I still had things to look forward to in the near future.\nQ11: 2: I didn't get upset rather easily this past week.\nQ12: 2: I didn't feel like I was using excessive nervous energy recently.\nQ13: 2: I had moments of feeling down, but overall, I was not consistently sad and depressed this week.\nQ14: 2: I didn't get impatient when faced with delays recently.\nQ15: 1: I did not feel faint in the past week.\nQ16: 1: I still found enjoyment in the things I did and didn't feel like I had lost interest in everything.\nQ17: 1: I didn't feel worthless as a person recently.\nQ18: 2: I wasn't particularly touchy this past week.\nQ19: 1: I did not perspire noticeably without physical exertion recently.\nQ20: 1: I did not feel scared without reason in the past week.\nQ21: 1: I found life worthwhile and meaningful recently.\nQ22: 2: While I found it somewhat challenging to wind down, I eventually managed to relax.\nQ23: 1: I did not have difficulty swallowing recently.\nQ24: 2: I was able to find enjoyment in the activities I engaged in this past week.\nQ25: 1: I did not excessively notice the action of my heart without physical exertion recently.\nQ26: 2: I had moments of feeling blue, but overall, I was not consistently down-hearted.\nQ27: 2: I was not consistently irritable this past week.\nQ28: 1: I did not feel close to panic recently.\nQ29: 2: It was a bit challenging to calm down after being upset, but I managed to do so with time.\nQ30: 1: I did not fear being 'thrown' by trivial tasks recently.\nQ31: 2: I was able to find enthusiasm in some things I did this past week.\nQ32: 2: I was able to tolerate interruptions to my work with some level of patience.\nQ33: 2: While I experienced moments of nervous tension, I was not consistently in that state throughout the week.\nQ34: 1: I did not constantly feel worthless this past week.\nQ35: 2: I was able to handle interruptions and get back to my work without feeling too bothered.\nQ36: 1: I did not feel terrified this past week.\nQ37: 1: I could see hopeful things in the future and did not find life to be without meaning.\nQ38: 2: While I had some agitated moments, I was not consistently agitated throughout the week.\nQ39: 1: I did not constantly worry about panicking and making a fool of myself recently.\nQ40: 1: I did not experience trembling hands in the past week.\nQ41: 2: I was able to work up the initiative to complete tasks, although it was a bit challenging at times."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 892,
+    "completion_tokens": 835,
+    "total_tokens": 1727
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}

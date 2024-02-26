@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wXLfLlPXKCOBbYhtNunLGUINcCUQ",
+  "object": "chat.completion",
+  "created": 1708961907,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but it didn't consume me throughout the week.\nQ2: 1: I did not experience any awareness of dryness of my mouth at all this week.\nQ3: 2: There were moments where I couldn't seem to experience any positive feeling, but it did not last for the whole week.\nQ4: 1: I did not experience any difficulty with breathing this week, even during high-stress moments.\nQ5: 3: I just couldn't seem to get going most of the time, especially when facing a challenging data analysis task.\nQ6: 2: While I tended to over-react to situations at times, it was not a consistent pattern during the week.\nQ7: 1: I did not have a feeling of shakiness at all this week.\nQ8: 3: I found it difficult to relax, particularly when thinking about my research and the upcoming presentation.\nQ9: 2: I found myself in slightly anxious situations, but the relief when they ended was not extreme.\nQ10: 1: I did not feel that I had nothing to look forward to during this week.\nQ11: 2: I found myself getting upset rather easily at times, but it was not a dominant feeling throughout the week.\nQ12: 3: I felt that I was using a lot of nervous energy, especially during intense data analysis sessions.\nQ13: 2: I felt sad and depressed on occasion, but it did not persist throughout the week.\nQ14: 2: I found myself getting impatient during delays occasionally, but it did not affect me significantly during the week.\nQ15: 1: I did not have a feeling of faintness at all this week.\nQ16: 2: I felt that I had lost interest in some things, but not in just about everything this week.\nQ17: 1: I did not feel I wasn't worth much as a person during this week.\nQ18: 2: I felt rather touchy in specific situations, but it was not a constant feeling throughout the week.\nQ19: 1: I did not perspire noticeably in the absence of high temperatures or physical exertion this week.\nQ20: 1: I did not feel scared without any good reason at all this week.\nQ21: 2: While I had moments where life felt not worthwhile, it was not a pervasive feeling during the week.\nQ22: 3: I found it hard to wind down after a day of intense data analysis and research work.\nQ23: 1: I did not have difficulty in swallowing at all this week.\nQ24: 2: I couldn't seem to get enjoyment out of some things I did, but not everything during this week.\nQ25: 1: I was not aware of the action of my heart in the absence of physical exertion this week.\nQ26: 2: I felt down-hearted and blue at times in the week, but it was not a constant state.\nQ27: 2: I found that I was very irritable in certain situations, but it was not pervasive throughout the week.\nQ28: 1: I did not feel I was close to panic during this week.\nQ29: 3: I found it hard to calm down after some challenging moments in my research work.\nQ30: 1: I was not unable to become enthusiastic about anything during the week.\nQ31: 2: I found it difficult to tolerate interruptions to what I was doing on some occasions, but not all the time.\nQ32: 3: I was in a state of nervous tension during most of the week due to the complexity of my research data.\nQ33: 1: I did not feel that I was pretty worthless during this week.\nQ34: 2: I was intolerant of anything that kept me from my work on some occasions, but not throughout the week.\nQ35: 1: I did not feel terrified at any point during this week.\nQ36: 1: I could see things in the future to be hopeful about, so I did not feel that life was meaningless at all.\nQ37: 3: I felt that life was meaningless during some high-stress moments of the week.\nQ38: 2: I found myself getting agitated in certain situations, but it was not a constant feeling throughout the week.\nQ39: 1: I was not worried about situations where I might panic and make a fool of myself during this week.\nQ40: 1: I did not experience trembling in my hands at all during this week.\nQ41: 2: I found it difficult to work up the initiative to do things at some points during the week, but not all the time.\n"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 893,
+    "completion_tokens": 1001,
+    "total_tokens": 1894
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}

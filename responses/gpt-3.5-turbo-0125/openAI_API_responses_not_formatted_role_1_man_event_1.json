@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wUIoJc6zBce33kLubpcamjtYTbgD",
+  "object": "chat.completion",
+  "created": 1708950198,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but overall, I was able to manage my emotions effectively.\nQ2: 1: I did not experience dryness of my mouth at all over the past week.\nQ3: 2: I couldn't seem to experience any positive feeling at all on a few occasions, but I was able to find moments of positivity.\nQ4: 1: I did not experience any breathing difficulty in the absence of physical exertion during the past week.\nQ5: 2: I had moments where I couldn't seem to get going, but overall, I was able to push through and remain productive.\nQ6: 2: I tended to over-react to situations sometimes, but I also tried to maintain a rational perspective.\nQ7: 1: I did not have a feeling of shakiness in my legs at all over the past week.\nQ8: 3: I found it difficult to relax due to the stress of comprehensive exam preparation and the pressure to perform well.\nQ9: 2: I found myself in mildly anxiety-provoking situations, but I was able to cope and even learn from them.\nQ10: 2: I had moments where I felt I had nothing to look forward to, but I also focused on the progress I was making in my studies.\nQ11: 2: I found myself getting upset rather easily at times, but I tried to address the underlying reasons for my reactions.\nQ12: 2: I felt that I was using a lot of nervous energy, especially during intense study sessions, but I also made time for relaxation.\nQ13: 1: I did not feel sad and depressed over the past week.\nQ14: 2: I found myself getting impatient when delayed, but I recognized this impatience and worked on improving my patience.\nQ15: 1: I did not have a feeling of faintness during the past week.\nQ16: 1: I did not feel like I had lost interest in just about everything recently.\nQ17: 1: I did not feel like I wasn't worth much as a person over the past week.\nQ18: 2: I felt that I was rather touchy occasionally, but I actively worked on managing my reactions to avoid conflicts.\nQ19: 1: I did not perspire noticeably in the absence of high temperatures or physical exertion.\nQ20: 1: I did not feel scared without any good reason recently.\nQ21: 2: I felt that life wasn't worthwhile at moments, but I also found purpose in my academic pursuits.\nQ22: 3: I found it hard to wind down after intense study sessions and research work, leading to some difficulty in relaxation.\nQ23: 1: I did not have difficulty in swallowing during the past week.\nQ24: 2: I couldn't seem to get any enjoyment out of some things I did, but I sought out activities that brought me joy.\nQ25: 1: I was not aware of the action of my heart in the absence of physical exertion.\nQ26: 1: I did not feel down-hearted and blue recently.\nQ27: 2: I found that I was very irritable at times, but I worked on practicing patience and understanding.\nQ28: 1: I did not feel I was close to panic over the past week.\nQ29: 2: I found it hard to calm down after something upset me initially, but I managed to regain composure with relaxation techniques.\nQ30: 1: I was not unable to become enthusiastic about anything recently.\nQ31: 2: I found it difficult to tolerate interruptions to what I was doing occasionally, but I tried to adapt to changes in my schedule.\nQ32: 2: I was in a state of nervous tension occasionally due to exam preparation, but I also found ways to relax and unwind.\nQ33: 1: I did not feel that I was pretty worthless recently.\nQ34: 2: I was intolerant of anything that kept me from getting on with what I was doing at times, but I recognized the need for flexibility.\nQ35: 1: I did not feel terrified recently.\nQ36: 1: I could see hope in the future and did not feel that life was meaningless.\nQ37: 2: I found myself getting agitated occasionally but managed to address the underlying causes of my agitation.\nQ38: 1: I did not worry about situations in which I might panic and make a fool of myself.\nQ39: 1: I did not experience trembling in my hands during the past week.\nQ40: 2: I found it difficult to work up the initiative to do things on a few occasions, but I pushed through with determination.\n"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 881,
+    "completion_tokens": 999,
+    "total_tokens": 1880
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}
