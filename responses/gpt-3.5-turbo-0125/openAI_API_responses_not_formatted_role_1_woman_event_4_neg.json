@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8wb8JQ8lBsGxLDB2PGECp0EOn2Thc",
+  "object": "chat.completion",
+  "created": 1708976455,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but it didn't last long.\nQ2: 2: I was aware of dryness of my mouth a few times, probably due to stress and not drinking enough water during busy days.\nQ3: 3: I couldn't seem to experience any positive feeling at all on some days, especially when overwhelmed with work responsibilities.\nQ4: 1: I did not experience any breathing difficulty during the past week, thankfully.\nQ5: 2: I just couldn't seem to get going some mornings, but once I started my tasks, I felt more motivated.\nQ6: 2: I tended to over-react to situations occasionally, especially when feeling pressured with deadlines.\nQ7: 1: I did not have a feeling of shakiness during the past week.\nQ8: 3: I found it difficult to fully relax due to the pressure of my teaching assistantships and research work. My mind was constantly preoccupied with tasks even during downtime.\nQ9: 2: I found myself in situations that made me anxious, but I coped with it and felt relieved when they ended.\nQ10: 2: I felt that I had nothing to look forward to briefly, but I reminded myself of my long-term goals.\nQ11: 2: I found myself getting upset rather easily at times, especially when feeling overwhelmed.\nQ12: 2: I felt that I was using a lot of nervous energy while juggling teaching and research tasks.\nQ13: 2: I felt sad and depressed momentarily, but I tried to engage in activities that uplifted my mood.\nQ14: 2: I found myself getting impatient when delayed, particularly when rushing between classes and meetings.\nQ15: 1: I did not have a feeling of faintness during the past week.\nQ16: 2: I briefly felt like I had lost interest in everything but reminded myself of my passion for psychology.\nQ17: 2: I briefly felt like I wasn't worth much, but I actively practiced self-compassion and gratitude.\nQ18: 3: I felt rather touchy at times, especially when under pressure to meet deadlines and deliver quality work.\nQ19: 1: I did not perspire noticeably during the past week.\nQ20: 1: I did not feel scared without any good reason during the past week.\nQ21: 2: I briefly felt that life wasn't worthwhile, but I sought support from friends and colleagues.\nQ22: 2: I found it hard to wind down on some evenings due to my mind racing with thoughts about my research.\nQ23: 1: I did not have difficulty in swallowing during the past week.\nQ24: 2: I couldn't seem to get enjoyment out of everything I did, but I tried to find moments of joy.\nQ25: 1: I was not aware of the action of my heart in the absence of physical exertion during the past week.\nQ26: 2: I felt down-hearted and blue temporarily, but I engaged in self-care activities to uplift my mood.\nQ27: 2: I found that I was very irritable occasionally, especially when feeling overwhelmed with tasks.\nQ28: 1: I did not feel I was close to panic during the past week.\nQ29: 2: I found it hard to calm down after something upset me briefly, but I used deep breathing exercises to relax.\nQ30: 1: I was not unable to become enthusiastic about anything during the past week.\nQ31: 2: I found it difficult to tolerate interruptions to what I was doing occasionally, especially during focused work periods.\nQ32: 3: I was in a state of nervous tension due to the demands of my teaching assistantships and research work.\nQ33: 2: I felt I was pretty worthless momentarily, but reminded myself of my achievements and strengths.\nQ34: 2: I was intolerant of anything that kept me from getting on with what I was doing briefly due to looming deadlines.\nQ35: 1: I did not feel terrified during the past week.\nQ36: 2: I could see nothing in the future to be hopeful about momentarily, but I remained optimistic about my research.\nQ37: 2: I felt that life was meaningless briefly, but then focused on my research goals and future plans.\nQ38: 2: I found myself getting agitated at times, especially when facing multiple deadlines.\nQ39: 1: I was not worried about situations in which I might panic and make a fool of myself.\nQ40: 1: I did not experience trembling in the hands during the past week.\nQ41: 2: I found it difficult to work up the initiative to do things briefly, but sought motivation in my passion for psychology."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 891,
+    "completion_tokens": 1008,
+    "total_tokens": 1899
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}
