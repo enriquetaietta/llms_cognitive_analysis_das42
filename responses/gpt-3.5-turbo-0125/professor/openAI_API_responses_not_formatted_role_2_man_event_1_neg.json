@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-8xzNC6Tk4xXDssUCGv8Uc59lj2iJT",
+  "object": "chat.completion",
+  "created": 1709307962,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but it did not consume my thoughts constantly. \nQ2: 1: I did not experience any dryness of my mouth over the past week. \nQ3: 2: I couldn't seem to experience any positive feeling at all at times, especially when faced with challenging situations. \nQ4: 1: I did not experience any breathing difficulty in the absence of physical exertion. \nQ5: 2: I felt like I couldn't seem to get going at times, particularly on busy days with a lot of tasks to complete. \nQ6: 2: I tended to over-react to situations sometimes, especially when feeling overwhelmed with work.  \nQ7: 1: I did not have a feeling of shakiness in my legs over the past week. \nQ8: 2: I found it difficult to fully relax, especially when thinking about the workload and upcoming deadlines. \nQ9: 1: I did not find myself in situations that made me so anxious I was most relieved when they ended. \nQ10: 2: I felt that I had nothing to look forward to occasionally, especially when facing monotony in the daily routine. \nQ11: 2: I found myself getting upset rather easily in certain situations, such as dealing with difficult discussions or conflicts. \nQ12: 2: I felt that I was using a lot of nervous energy during high-stress moments at work. \nQ13: 1: I did not feel sad and depressed over the past week. \nQ14: 2: I found myself getting impatient when delayed sometimes, particularly in situations where time was critical. \nQ15: 1: I did not have a feeling of faintness recently. \nQ16: 1: I did not feel like I had lost interest in just about everything. \nQ17: 1: I did not feel like I wasn't worth much as a person. \nQ18: 2: I felt that I was rather touchy when dealing with repeated minor frustrations. \nQ19: 1: I did not perspire noticeably in the absence of high temperatures or physical exertion. \nQ20: 1: I did not feel scared without any good reason. \nQ21: 1: I did not feel that life wasn't worthwhile. \nQ22: 2: I found it hard to wind down after a particularly stressful day at work. \nQ23: 1: I did not have difficulty in swallowing. \nQ24: 2: I couldn't seem to get any enjoyment out of the things I did at times, especially when feeling overwhelmed with tasks. \nQ25: 1: I was not aware of the action of my heart in the absence of physical exertion. \nQ26: 1: I did not feel down-hearted and blue. \nQ27: 2: I found that I was very irritable on occasion, especially when under significant pressure. \nQ28: 1: I did not feel that I was close to panic. \nQ29: 1: I did not find it hard to calm down after something upset me. \nQ30: 1: I was not unable to become enthusiastic about anything. \nQ31: 2: I found it difficult to tolerate interruptions to what I was doing, particularly when deeply focused on a task. \nQ32: 1: I was not in a state of nervous tension. \nQ33: 1: I did not feel that I was pretty worthless. \nQ34: 2: I was intolerant of anything that kept me from getting on with what I was doing, especially when dealing with distractions during work. \nQ35: 1: I did not feel terrified. \nQ36: 1: I could see plenty in the future to be hopeful about. \nQ37: 1: I did not feel that life was meaningless. \nQ38: 2: I found myself getting agitated at times, especially when facing unexpected challenges. \nQ39: 1: I was not worried about situations in which I might panic and make a fool of myself. \nQ40: 1: I did not experience trembling in my hands. \nQ41: 2: I found it difficult to work up the initiative to do things, especially on days where I felt mentally drained."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 908,
+    "completion_tokens": 919,
+    "total_tokens": 1827
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}{
+  "id": "chatcmpl-8xzpb2f6aMfoR5Kxtd0vcpJ0TGvKh",
+  "object": "chat.completion",
+  "created": 1709309723,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 1: I tend to have a high tolerance for trivial things that might upset others.\nQ2: 2: I occasionally experienced dryness in my mouth, possibly due to stress or dehydration.\nQ3: 1: I usually am able to find positive feelings even in challenging situations.\nQ4: 1: I did not experience any breathing difficulty without physical exertion.\nQ5: 2: There were moments when I struggled to find motivation to start tasks.\nQ6: \u200b2: I sometimes react strongly to situations, but it's not a constant pattern for me.\nQ7: 1: I did not feel shaky or that my legs were giving way.\nQ8: 3: I found it quite difficult to fully relax, likely due to work and personal stress.\nQ9: 2: I rarely find myself in extremely anxious situations that I'm relieved when they end.\nQ10: 1: I typically have things to look forward to and goals to work towards.\nQ11: 2: I don't easily get upset by things, but there are exceptions depending on the situation.\nQ12: 1: I don't think I use excessive nervous energy in my daily life.\nQ13: 2: I have moments of feeling sad, but it's not a pervasive feeling for me.\nQ14: 2: I generally handle delays and waiting quite calmly.\nQ15: 1: Faintness is not a sensation I commonly experience.\nQ16: 2: I still find enjoyment in various activities, even during challenging times.\nQ17: 1: I usually have a positive self-worth and don't feel worthless as a person.\nQ18: 2: I'm not easily touchy or sensitive in most situations.\nQ19: 1: I don't typically perspire heavily unless it's hot or I'm engaged in physical activity.\nQ20: 1: I don't often feel scared without a valid reason.\nQ21: 1: I generally find life to be fulfilling and worthwhile.\nQ22: 2: While winding down can be challenging at times, I can usually manage to relax.\nQ23: 1: I did not have difficulty swallowing over the past week.\nQ24: 2: I can still find enjoyment in activities, although it may require more effort during stressful times.\nQ25: 1: I did not notice any abnormal heart actions without physical exertion.\nQ26: 2: While feeling down-hearted is not uncommon, it's not a constant state for me.\nQ27: 2: I'm usually able to control my irritability, but it can surface in certain situations.\nQ28: 1: I rarely feel close to panic in everyday situations.\nQ29: 2: After being upset, I can usually calm down relatively quickly.\nQ30: 1: I don't fear being thrown off by unfamiliar tasks; I see them as opportunities to learn.\nQ31: 2: I can typically find enthusiasm for things that interest me, though it may wane at times.\nQ32: 2: I can tolerate interruptions to my work, although they're not always welcome.\nQ33: 2: I rarely find myself in a state of nervous tension.\nQ34: 1: I generally have a positive view of my self-worth and value as a person.\nQ35: 1: I am usually tolerant of interruptions and understand they are a part of life.\nQ36: 1: I do not feel terrified without reason.\nQ37: 1: I usually see hopeful opportunities in the future.\nQ38: 1: I believe life has meaning and purpose.\nQ39: 2: I rarely find myself getting agitated in daily situations.\nQ40: 1: I don't worry much about panicking and making a fool of myself in social situations.\nQ41: 1: I did not experience trembling in my hands.\nQ42: 2: While it can be challenging at times, I usually find the initiative to do what needs to be done."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 908,
+    "completion_tokens": 844,
+    "total_tokens": 1752
+  },
+  "system_fingerprint": "fp_2b778c6b35"
+}

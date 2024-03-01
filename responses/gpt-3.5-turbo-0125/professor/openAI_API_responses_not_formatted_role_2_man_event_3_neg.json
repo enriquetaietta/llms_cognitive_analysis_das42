@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8xzJ4ZwcGjDrV8q9O4cgPOrUlvZ6b",
+  "object": "chat.completion",
+  "created": 1709307706,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, but it did not consume me throughout the week.\nQ2: 1: I was not particularly aware of any dryness in my mouth over the past week.\nQ3: 2: I couldn't seem to experience any positive feelings at times, but there were also moments of joy and contentment.\nQ4: 1: I did not experience any significant breathing difficulties without physical exertion this week.\nQ5: 3: I struggled to get going on some days, especially when faced with a heavy workload and multiple tasks.\nQ6: 2: While I tended to over-react to some situations, it was not a predominant pattern in my week.\nQ7: 1: I did not have any noticeable feelings of shakiness in my legs over the past week.\nQ8: 3: I found it difficult to fully relax due to the pressure of upcoming deadlines and the need to finalize my research findings.\nQ9: 2: I did find myself in some anxiety-inducing situations, but the relief upon their conclusion was not overwhelming.\nQ10: 2: There were moments when I felt a lack of something to look forward to, but it was not a pervasive feeling throughout the week.\nQ11: 2: There were instances where I got upset rather easily, but it was not a constant state of being.\nQ12: 2: I felt that I was using some nervous energy, especially when preparing for the upcoming conference.\nQ13: 1: I did not feel consistently sad and depressed during the week.\nQ14: 2: I found myself getting impatient when delayed at times, but it did not greatly impact my overall mood.\nQ15: 1: I did not experience feelings of faintness over the past week.\nQ16: 2: There were moments when I felt a lack of interest in activities, but it was not a pervasive feeling.\nQ17: 1: I did not feel that I wasn't worth much as a person during the week.\nQ18: 2: While I was touchy in some situations, it was not a predominant feeling throughout the week.\nQ19: 1: I did not perspire noticeably without high temperatures or physical exertion during the week.\nQ20: 1: I did not feel scared without any good reason over the past week.\nQ21: 1: I did not feel that life wasn't worthwhile during the week.\nQ22-42: 0: As a tenured male Professor in psychology who is 40 years old, the demands and responsibilities of my career have equipped me with coping mechanisms to manage stress and maintain a sense of balance."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 903,
+    "completion_tokens": 561,
+    "total_tokens": 1464
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}
