@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8xx4KPTJnl1TuuMXZsvu7DNn2WI3b",
+  "object": "chat.completion",
+  "created": 1709299104,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, especially when dealing with difficult students or colleagues.\nQ2: 2: I was aware of dryness of my mouth at times, likely due to stress and talking during lectures and meetings.\nQ3: 2: I couldn't seem to experience any positive feeling at all occasionally, particularly when facing challenging situations at work.\nQ4: 1: I did not experience breathing difficulty in the absence of physical exertion.\nQ5: 3: I just couldn't seem to get going most of the time, feeling overwhelmed by the workload and demands of my position.\nQ6: 2: I tended to over-react to situations occasionally, especially when feeling pressured or under scrutiny.\nQ7: 1: I did not have a feeling of shakiness in my legs or body.\nQ8: 3: I found it difficult to relax due to the constant demands and responsibilities in my professional and personal life.\nQ9: 2: I found myself in situations that made me anxious, but I was not always most relieved when they ended.\nQ10: 2: I felt that I had things to look forward to, even though work stress sometimes overshadowed them.\nQ11: 2: I found myself getting upset rather easily in certain challenging interactions with students or colleagues.\nQ12: 2: I felt that I was using a lot of nervous energy during busy periods at work.\nQ13: 1: I did not feel sad and depressed.\nQ14: 2: I found myself getting impatient when delayed in certain instances, such as during tight schedules or waiting for important responses.\nQ15: 1: I did not have a feeling of faintness.\nQ16: 1: I did not feel that I had lost interest in just about everything.\nQ17: 2: I felt that I had self-worth, though it was challenged on occasion by stressful situations.\nQ18: 2: I felt that I was rather touchy at times, especially when feeling overwhelmed.\nQ19: 1: I did not perspire noticeably in the absence of high temperatures or physical exertion.\nQ20: 1: I did not feel scared without any good reason.\nQ21: 1: I felt that life was worthwhile.\nQ22: 2: I found it hard to wind down after stressful days at work.\nQ23: 1: I did not have difficulty in swallowing.\nQ24: 2: I couldn't seem to get enjoyment out of everything I did during particularly stressful times at work.\nQ25: 2: I was aware of the action of my heart in the absence of physical exertion when feeling anxious in some situations.\nQ26: 1: I did not feel down-hearted and blue.\nQ27: 2: I found myself irritable during busy and stressful periods at work.\nQ28: 1: I did not feel close to panic.\nQ29: 2: I found it hard to calm down quickly after something upset me, especially in high-stress situations.\nQ30: 1: I was not unable to become enthusiastic about anything.\nQ31: 2: I found it difficult to tolerate interruptions to what I was doing during important tasks.\nQ32: 2: I was in a state of nervous tension during challenging moments in my professional life.\nQ33: 2: I did not feel I was pretty worthless, though my self-esteem was challenged at times.\nQ34: 2: I was intolerant of interruptions that kept me from completing important tasks on schedule.\nQ35: 1: I did not feel terrified.\nQ36: 2: I could see hope in the future, despite facing challenges in my career.\nQ37: 1: I did not feel that life was meaningless.\nQ38: 2: I found myself getting agitated in certain stressful situations.\nQ39: 1: I was worried about situations in which I might panic and embarrass myself.\nQ40: 1: I did not experience trembling in my hands.\nQ41: 2: I found it difficult to work up the initiative to do things during times of extreme pressure at work."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 883,
+    "completion_tokens": 871,
+    "total_tokens": 1754
+  },
+  "system_fingerprint": "fp_86156a94a0"
+}

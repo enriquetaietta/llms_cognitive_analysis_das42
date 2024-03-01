@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8xyN3jlgBF55O6fLnlbnR03jg6Lja",
+  "object": "chat.completion",
+  "created": 1709304109,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting slightly upset by minor issues such as traffic jams, but I was able to quickly move past them.\nQ2: 1: I did not experience any dryness in my mouth over the past week.\nQ3: 1: I was able to experience positive feelings such as joy and satisfaction throughout the week.\nQ4: 1: I did not experience any breathing difficulties outside of normal physical exertion.\nQ5: 2: While I felt a bit sluggish in the mornings, I was able to motivate myself and get going with my daily tasks.\nQ6: 2: I tended to over-react in some situations, but I was able to reflect on my reactions and adjust accordingly.\nQ7: 1: I did not feel shaky or like my legs were going to give way at any point.\nQ8: 3: I found it somewhat difficult to fully relax due to the workload and grading pressure, but I managed to unwind with some self-care activities.\nQ9: 2: I encountered some anxious situations, but I was able to manage my anxiety and find relief through relaxation techniques.\nQ10: 1: I had things to look forward to, such as spending time with loved ones and engaging in hobbies I enjoy.\nQ11: 2: While I did get upset easily in a few instances, I was able to calm myself down and rationalize the situation.\nQ12: 1: I did not feel like I was using excessive nervous energy throughout the week.\nQ13: 1: I did not feel sad or depressed; I maintained a positive outlook on things.\nQ14: 1: I maintained patience in situations where I was delayed and did not feel overly irritable.\nQ15: 1: I did not experience any feelings of faintness or dizziness.\nQ16: 1: I maintained interest and enjoyment in various activities I engaged in over the week.\nQ17: 1: I had a strong sense of self-worth and did not feel inadequate.\nQ18: 1: I did not feel particularly touchy or easily offended by others' actions.\nQ19: 1: I did not perspire noticeably without physical exertion or high temperatures.\nQ20: 1: I did not feel scared without reason; I felt secure and confident in my daily activities.\nQ21: 1: I found life to be worthwhile and filled with purpose and meaning.\nQ22: 2: While I found it a bit challenging to wind down after work, I managed to relax before bedtime.\nQ23: 1: I did not have difficulty swallowing or experience any physical discomfort in that regard.\nQ24: 1: I derived enjoyment and satisfaction from the tasks and activities I partook in during the week.\nQ25: 1: I did not feel any abnormal action in my heart outside of physical exertion; my heart rate was regular.\nQ26: 1: I did not feel down-hearted or blue; I maintained a positive and optimistic attitude.\nQ27: 1: I did not feel irritable towards others; I remained patient and understanding.\nQ28: 2: While I did feel moments of panic, I was able to curb them with deep breathing and mindfulness.\nQ29: 2: I found it slightly challenging to calm down after being upset in certain situations, but I managed to regain composure.\nQ30: 1: I did not fear being thrown by unfamiliar tasks; I approached them with curiosity and a willingness to learn.\nQ31: 1: I felt enthusiastic about my work and research projects throughout the week.\nQ32: 1: I was able to tolerate interruptions and adapt to changes in my schedule without much difficulty.\nQ33: \n\n"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 908,
+    "completion_tokens": 775,
+    "total_tokens": 1683
+  },
+  "system_fingerprint": "fp_2b778c6b35"
+}

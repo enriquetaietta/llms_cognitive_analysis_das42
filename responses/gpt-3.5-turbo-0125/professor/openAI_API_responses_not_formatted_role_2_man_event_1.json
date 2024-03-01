@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-8xuyDdptq8mngNb0KVM4qXk2gKCeM",
+  "object": "chat.completion",
+  "created": 1709291037,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Q1: 2: I found myself getting upset by quite trivial things occasionally, especially when I was under time pressure with grading and research deadlines looming.\nQ2: 1: I did not experience dryness of my mouth over the past week.\nQ3: 2: I couldn't seem to experience any positive feeling at all some days, especially when dealing with difficult student issues.\nQ4: 1: I did not experience breathing difficulty in the absence of physical exertion.\nQ5: 2: I just couldn't seem to get going on some days when I had trouble focusing on my writing projects.\nQ6: 2: I tended to over-react to situations sometimes, particularly when I felt overwhelmed with multiple tasks at once.\nQ7: 1: I did not have a feeling of shakiness in the past week.\nQ8: 3: I found it difficult to fully relax due to the pressure of my research and upcoming deadlines. I often found my mind racing and thinking about my work even during moments of relaxation.\nQ9: 2: I found myself in some situations that made me anxious, particularly when dealing with performance evaluations and feedback sessions.\nQ10: 1: I did not feel that I had nothing to look forward to.\nQ11: 2: I found myself getting upset rather easily in some instances, especially when facing unexpected challenges in my teaching.\nQ12: 1: I did not feel that I was using a lot of nervous energy.\nQ13: 2: I felt sad and depressed at times, particularly when reflecting on the current state of mental health in society.\nQ14: 2: I found myself getting impatient when delayed in any way occasionally, especially when trying to balance multiple meetings and tasks.\nQ15: 1: I did not have a feeling of faintness over the past week.\nQ16: 2: I felt that I had lost interest in just about everything some days, particularly when feeling burnt out from work demands.\nQ17: 1: I did not feel I wasn't worth much as a person.\nQ18: 2: I felt that I was rather touchy sometimes, especially when receiving critical feedback on my research proposals.\nQ19: 1: I did not perspire noticeably in the absence of high temperatures or physical exertion.\nQ20: 1: I did not feel scared without any good reason.\nQ21: 1: I did not feel that life wasn't worthwhile.\nQ22: 2: I found it hard to wind down some evenings, particularly after intense class discussions on sensitive topics.\nQ23: 1: I did not have difficulty in swallowing in the past week.\nQ24: 2: I couldn't seem to get any enjoyment out of the things I did on some occasions, especially when facing setbacks in my research projects.\nQ25: 1: I was not aware of the action of my heart in the absence of physical exertion.\nQ26: 2: I felt down-hearted and blue at times, especially when reading about the impact of social media on mental health.\nQ27: 1: I did not find that I was very irritable over the past week.\nQ28: 1: I did not feel I was close to panic recently.\nQ29: 2: I found it hard to calm down after something upset me on certain days, especially when confronted with challenging student situations.\nQ30: 1: I was not unable to become enthusiastic about anything over the past week.\nQ31: 2: I found it difficult to tolerate interruptions to what I was doing at times, especially when trying to concentrate on writing a research paper.\nQ32: 1: I did not feel I was in a state of nervous tension.\nQ33: 1: I did not feel I was pretty worthless.\nQ34: 1: I was not intolerant of anything that kept me from getting on with what I was doing.\nQ35: 1: I did not feel terrified over the past week.\nQ36: 1: I could see things in the future to be hopeful about.\nQ37: 1: I did not feel that life was meaningless.\nQ38: 1: I did not find myself getting agitated.\nQ39: 1: I was not worried about situations in which I might panic and make a fool of myself.\nQ40: 1: I did not experience trembling in the hands.\nQ41: 2: I found it difficult to work up the initiative to do things at times, especially when faced with a heavy workload and competing priorities.\n"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 887,
+    "completion_tokens": 951,
+    "total_tokens": 1838
+  },
+  "system_fingerprint": "fp_2b778c6b35"
+}
