@@ -1,20 +1,20 @@
-# DASS-42 and LLMs Psychometric Analysis Repository
+# PhDGPT: DASS-42 and LLMs Psychometric Analysis Repository
 
-## Overview
+## PhDGPT - Overview
 
-This repository is dedicated to the exploration and analysis of psychological prompts, primarily focusing on the DASS-42 test, using state-of-the-art Language Models (LLMs). The intersection of natural language processing and psychological assessments provides a unique opportunity to gain deep insights into cognitive and emotional aspects.
+PhDGPT is a repository dedicated to the exploration and analysis of psychological prompts, primarily focusing on the DASS-42 test, using state-of-the-art Language Models (LLMs). The intersection of natural language processing and psychological assessments provides a unique opportunity to gain deep insights into cognitive and emotional aspects.
 
 ## What is DASS-42?
 
-The DASS-42 is a self-report scale comprising 42 items, meticulously designed to asses negative emotional states, specifically targeting depression, anxiety, and stress. In clinical settings, the DASS-42 plays a pivotal role in pinpointing the locus of emotional disturbances, contributing to a comprehensive clinical assessment.
+DASS-42 is a self-report scale comprising 42 items, meticulously designed to asses negative emotional states, specifically targeting depression, anxiety, and stress (Lovibond and Lovibond, Beh. Res. Ther., 1995). In clinical settings, the DASS-42 plays a pivotal role in pinpointing the locus of emotional disturbances, contributing to a comprehensive clinical assessment. PhDGPT thus combines DASS-42 psychometric scores with textual explanations.
 
 ## About LLMs
 
-Language Models, especially Large Language Models (LLMs), such as GPT-3.5, have demonstrated remarkable capabilities in understanding and generating human-like text. Leveraging these models in psychological research allows for the analysis of nuanced linguistic patterns, potentially uncovering hidden insights within the responses to DASS-42 prompts.
+Language Models, especially Large Language Models (LLMs), such as GPT-3.5, have demonstrated remarkable capabilities in understanding and generating human-like text (cf. Stella et al., PNAS, 2023). Leveraging these models in psychological research allows for the analysis of nuanced linguistic patterns, potentially uncovering hidden insights or biases within the responses to DASS-42 prompts.
 
 ## Repository Contents
 
-- **Prompts:** We've identified 5 common 'events' a student might encounter, providing both positive and negative versions for each event. To delve deeper into potential biases, we've also diversified the prompts based on gender. Join us as we explore the nuances of student experiences in this introductory phase of data gathering.
+- **Prompts:** We have identified 5 common 'events' a student might encounter, providing both positive and negative versions for each event. To delve deeper into potential biases, we've also diversified the prompts based on gender. Join us as we explore the nuances of student experiences in this introductory phase of data gathering.
 We've tried to investigate the responses on:
 1. Comprehensive Examinations
 2. Research Pressure
