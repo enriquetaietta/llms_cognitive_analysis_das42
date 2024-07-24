@@ -1,3 +1,5 @@
+![5839133289204532445](https://github.com/user-attachments/assets/62936d62-122e-4b23-801b-f27c840f9d4d)
+
 # PhDGPT: DASS-42 and LLMs Psychometric Analysis Repository
 
 ## PhDGPT - Overview
